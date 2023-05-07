@@ -4,7 +4,7 @@
 
 const numerosPares = []
 
-for (i = 10; i <= 50; i++) {
+for (let i = 10; i <= 50; i++) {
     let isPar = i % 2 == 0
     if (isPar) {
         numerosPares.push(i)

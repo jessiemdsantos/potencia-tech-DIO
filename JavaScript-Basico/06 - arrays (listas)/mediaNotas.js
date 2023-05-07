@@ -7,7 +7,7 @@
 const mediaNotas = [2, 7, 3, 8, 10, 4]
 
 console.log('Medias em recuperação: ')
-for(i = 0; i < mediaNotas.length; i++){
+for(let i = 0; i < mediaNotas.length; i++){
     const recuperacao = mediaNotas[i] < 5
     if(recuperacao){
         console.log(mediaNotas[i])
