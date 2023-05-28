@@ -8,7 +8,8 @@
     justify-content: flex-start;
 }
 .big-card__image > img{
-    width: 100%;
+    width: 400px;
+    max-width: 400px;
 }
 
 .big-card__title > h1{
