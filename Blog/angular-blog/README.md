@@ -1,3 +1,6 @@
+# Criando um blog com Angular
+Projeto criado com objetivo de explorar os conceitos de componentes e rotas utilizando o framework Angular.
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
