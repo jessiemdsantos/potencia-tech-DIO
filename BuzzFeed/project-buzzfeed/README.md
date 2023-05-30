@@ -1,3 +1,6 @@
+# Criando um clone do BuzzFeed com Angular
+Com esse projeto aprendi a criar um divertido clone do buzzfeed, tratando as perguntas e respostas dinâmicamente. 
+
 # ProjectBuzzfeed
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
